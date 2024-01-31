@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
